@@ -1,0 +1,46 @@
+body
+{
+		background-image: url("img/tlo.png");
+		margin: 0px;
+		font-family: 'Rowdies', cursive;
+}
+
+#logo
+{
+	width: 1270px;
+	height: 75px;
+	background-color: #808080; 
+	font-family: 'Syne Tactile', cursive;
+	font-size: 50px;
+	color: #383838;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 5px 0px 5px 0px;
+	letter-spacing: 3px;
+	border-bottom: 5px solid #303030;
+	text-shadow:
+	2px 2px 0 #C8C8C8,
+	-2px 2px 0 #C8C8C8,
+	-2px -2px 0 #C8C8C8,
+	2px -2px 0 #C8C8C8;
+	margin-left: auto;
+	margin-right: auto;
+	border-left: 5px solid #181818;
+	border-right: 5px solid #181818;
+}
+
+#logo1
+{
+	width: 1270px;
+	height: auto;
+	background-color: #B0E0E6; 
+	font-size: 25px;
+	color: #383838;
+	text-align: center;
+	text-transform: uppercase;
+	padding: 5px 0px 5px 0px;
+	letter-spacing: 3px;
+	margin-left: auto;
+	margin-right: auto;
+	border-left: 5px solid #181818;
+	border-right: 5px solid #181818;
